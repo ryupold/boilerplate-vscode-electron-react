@@ -1,0 +1,21 @@
+{
+  "name": "idlyd",
+  "version": false,
+  "ambientDependencies": {
+    "react": "registry:dt/react#0.14.0+20160319053454",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160316155526"
+  },
+  "globalDependencies": {
+    "core-js": "registry:dt/core-js#0.0.0+20160317120654",
+    "es6-shim": "registry:dt/es6-shim#0.31.2+20160602141504",
+    "github-electron": "github:DefinitelyTyped/DefinitelyTyped/github-electron/github-electron.d.ts#f16c4922a7dd6d359a197e4cc5103463ba68cf9e",
+    "node": "registry:dt/node#4.0.0+20160509154515",
+    "react": "registry:dt/react#0.14.0+20160602151522",
+    "react-dom": "registry:dt/react-dom#0.14.0+20160412154040"
+  },
+  "dependencies": {
+    "react": "registry:npm/react#15.0.1+20160601175240",
+    "react-bootstrap": "github:react-bootstrap/react-bootstrap-typescript/index.d.ts",
+    "requirejs": "registry:npm/requirejs#2.2.0+20160319062357"
+  }
+}
