@@ -5,7 +5,6 @@
 Run following commands:
 
 - `npm i`
-- in VSCode `CTRL+P` enter `task default`
 - in VSCode `CTRL+P` enter `task watch`
 
 ## React-Devtools
