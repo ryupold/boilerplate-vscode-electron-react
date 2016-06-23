@@ -18,5 +18,3 @@ Then execute the following javascript code from the Console tab of your running 
 `require('electron-react-devtools').install()`
 
 [npmjs.com: electron-react-devtools](https://www.npmjs.com/package/electron-react-devtools)
-
-## Required disk space: 500mb
